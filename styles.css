@@ -60,3 +60,9 @@ body {
   background-color: rgb(200, 200, 200);
   transform: scale(1.1);
 }
+
+#display-score {
+  margin-top: 10px;
+  font-size: larger;
+  letter-spacing: 3px;
+}
